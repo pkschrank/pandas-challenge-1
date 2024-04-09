@@ -19,3 +19,6 @@ Through this challenge, as a developer, I was tasked with the reading, parsing a
 - Summarization and Analysis
     1. From prior calculations provide user with more readable values
     2. Update column headers to more user friendly, readable values
+
+## Note
+- The two .ipynb files appeared identical. I worked through module_4_challenge.ipynb.
