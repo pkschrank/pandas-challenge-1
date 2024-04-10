@@ -20,5 +20,9 @@ Through this challenge, as a developer, I was tasked with the reading, parsing a
     1. From prior calculations provide user with more readable values
     2. Update column headers to more user friendly, readable values
 
+## Summary of Data
+
+By a large margin client 24741 was the largest customer. Not only did they have the highest gross revenue, they also were the top in total profit. They were also the top in units sold.
+
 ## Note
 - The two .ipynb files appeared identical. I worked through module_4_challenge.ipynb.
